@@ -5,14 +5,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img paddingBottom = '1.5px' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="in/yashika-malhotra-profile">
+    <img paddingBottom = '1.5px' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img paddingBottom = '1.5px' src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://leetcode.com/yashikamalhotra3101/">
+    <img paddingBottom = '1.5px' src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img paddingBottom = '1.5px' src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.scaler.com/academy/profile/33d1588dc7ff/">
+    <img paddingBottom = '1.5px' src="https://img.shields.io/badge/Scaler-blue?style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -37,8 +37,8 @@
   
   <img paddingBottom = '1.5px' src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="50"/>&nbsp;
   <img paddingBottom = '1.5px' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5" title="NodeJS" alt="NodeJS"/>&nbsp;
-  <img paddingBottom = '1.5px' src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Java" alt="Java" />&nbsp;
-  <img paddingBottom = '1.5px' src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="React" alt="React" />&nbsp;
+  <img paddingBottom = '1.5px' src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy" title="Java" alt="Java" />&nbsp;
+  <img paddingBottom = '1.5px' src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas" title="React" alt="React" />&nbsp;
   <img paddingBottom = '1.5px' src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="Spring" alt="Spring" />&nbsp;
   <img paddingBottom = '1.5px' src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" title="Material UI" alt="Material UI" />&nbsp;
   <img paddingBottom = '1.5px' src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="30"/>&nbsp;
