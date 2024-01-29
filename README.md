@@ -18,7 +18,7 @@
 <hr/>
 
 
-### Languages and Tools :
+# Languages and Tools :
 
 <div>
   <img paddingBottom = '1.5px' src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="50"/>&nbsp;
