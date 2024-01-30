@@ -87,6 +87,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashika-malhotra&theme=default)
 
+<hr/>
 <p>Leave a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="20" /> from <a href ="https://github.com/yashika-malhotra/yashika-malhotra" />here</a> if you like 😁</p>
 
  <br/> <br/> <br/> <br/> <br/>
