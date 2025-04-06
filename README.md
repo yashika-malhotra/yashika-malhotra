@@ -6,15 +6,15 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 👩‍💻 About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 
 <br/>
-<p align='left'>- I am <b>Yashika Malhotra</b>, currently embarking on my Data Scientist journey from Scaler</p>
-<p align='left'>- 💻 I am a Data Analyst as well as 📱ML / AI enthusiast</p>
-<p align='left'>- I love ❤ to make exciting and real-world data projects</p>
-<p align='left'>- I enjoy learning 🚀 new languages and libraries like Numpy, Pandas, Matplotlib, Seaborn, and many more</p>
-<p align='left'>- I also love Python 🐍, SQL, Business Intelligence tools like Tableau, and working on Machine Learning / Artificial Intelligence models</p>
-<p align='left'>- 🧠 I work with libraries such as Scikit-learn for building ML models like classification, regression, and clustering</p>
-<p align='left'>- 🔭 I have completed live projects for Netflix, Ola, Aerofit, Walmart, LoanTap, Yulu, and more</p>
-<p align='left'>- 🌐 I am also a Web Developer and Logo Designer who enjoys creating dynamic and interactive websites</p>
-<p align='left'>- 💬 For project collaboration or any informative discussion, connect on <b>LinkedIn</b> 😎😇</p>
+<p align='left'>- I am <b>Yashika Malhotra</b>, currently embarking on my <b>Data Scientist journey</b> from Scaler</p>
+<p align='left'>- 💻 I am a <b>Data Analyst</b> as well as 📱<b>ML / AI enthusiast</b></p>
+<p align='left'>- I love ❤ to make <b>exciting and real-world data projects</b></p>
+<p align='left'>- I enjoy learning 🚀 new languages for new <b>technologies and tools</b> used in <b>Web Development</b> and <b>Data Science</b></p>
+<p align='left'>- 🧠 I work with libraries such as <b>Numpy, Pandas, Matplotlib, Seaborn</b> and <b>Scikit-learn</b> for building ML models (like <b>classification, regression, and clustering</b>)</p>
+<p align='left'>- 🔭 I have completed <b>live projects</b> for <b>Netflix, Ola, Aerofit, Walmart, LoanTap, Yulu</b>, and more</p>
+<p align='left'>- 🌐 I am also a <b>Web Developer</b> and <b>Logo Designer</b> who enjoys creating <b>dynamic and interactive websites</b></p>
+<p align='left'>- 💬 For <b>project collaboration</b> or any <b>informative discussion</b>, connect on <b>LinkedIn</b> 😎😇</p>
+
 
 </div>
 <br/>
